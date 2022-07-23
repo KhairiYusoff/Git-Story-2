@@ -7,3 +7,5 @@ When you don’t maintain a journal, you become delusional about your progress.
 You think you have done a lot but in reality you have not.
 
 This journal will act like your roadmap and show you where exactly you at and where you are headed.
+
+Stop reading answers right now and get to code.
